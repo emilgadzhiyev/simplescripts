@@ -1,6 +1,6 @@
 using System;
 
-namespace MoneyMaker
+namespace MoneyChanger
 {
     class MainClass
     {
