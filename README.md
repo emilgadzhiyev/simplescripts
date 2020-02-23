@@ -1,2 +1,3 @@
 # simplescripts
-simple scripts written in C#
+
+moneychanger.cs - script written in C# to change different amount of money
