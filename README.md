@@ -1,4 +1,4 @@
-# simplescripts
+# Simple Scripts written in C#
 
 <b>MoneyChanger.cs</b> - script to change different amount of money.
 <br>
